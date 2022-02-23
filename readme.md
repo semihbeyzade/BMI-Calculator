@@ -1,8 +1,6 @@
 ## BMI-Calculator
 
-* Der Link von Projekt
-
-[Link](https://semihbeyzade.github.io/BMI-Calculator/)
+* [Der Link von Projekt](https://semihbeyzade.github.io/BMI-Calculator/)
 
 * Der Bildschirm von Projekt
 
